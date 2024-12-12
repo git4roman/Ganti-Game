@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ganti-Game/static/css/main.b1c0fc1a.css",
+    "main.js": "/Ganti-Game/static/js/main.6742a40d.js",
+    "static/media/tickSound.mp3": "/Ganti-Game/static/media/tickSound.c5570b45bc039c75724e.mp3",
+    "static/media/winSound.mp3": "/Ganti-Game/static/media/winSound.1f77e4c69e7777aa856f.mp3",
+    "static/media/startSound.mp3": "/Ganti-Game/static/media/startSound.830e042bcba12cbc055c.mp3",
+    "static/media/levelUpSound.mp3": "/Ganti-Game/static/media/levelUpSound.9bcac551ddce2d65c3b7.mp3",
+    "index.html": "/Ganti-Game/index.html",
+    "main.b1c0fc1a.css.map": "/Ganti-Game/static/css/main.b1c0fc1a.css.map",
+    "main.6742a40d.js.map": "/Ganti-Game/static/js/main.6742a40d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1c0fc1a.css",
+    "static/js/main.6742a40d.js"
+  ]
+}
